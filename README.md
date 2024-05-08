@@ -1,4 +1,4 @@
-# Optimizing-Biomass-Prediction
+# Enhancing Biomass Prediction: Advanced Modeling Techniques and Multicollinearity Resolution
 AP-STATS Project Code:
 -----------------------
 
